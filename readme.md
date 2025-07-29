@@ -1,9 +1,3 @@
-好的，当然可以。
-
-这是一个美化后的 Markdown 版本，结构更清晰，并使用了代码块以便于复制代码。
-
------
-
 # Cloudflare TOTP 网页验证器部署指南
 
 这是一个部署在 Cloudflare Workers 上的网页应用，它能像 Google Authenticator 或其他验证器应用一样，安全地存储和显示基于时间的一次性密码（TOTP）。
