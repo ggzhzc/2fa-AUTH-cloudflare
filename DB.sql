@@ -1,0 +1,5 @@
+CREATE TABLE totp_keys (
+  name TEXT PRIMARY KEY,
+  secret TEXT NOT NULL,
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
